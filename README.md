@@ -1,7 +1,11 @@
 # Quality-Prediction-in-a-Mining-Process-using-Machine-Learning
 This repository features an end-to-end Machine Learning pipeline designed to function as a Virtual Sensor for an industrial iron ore flotation plant.
+
+Internship project 
+
 Company: UniConverge Technologies Pvt, Ltd (UCT)
 Domain: Industrial Automation, Mining, & Predictive Manufacturing
+
 1. Background of the Project
 At UniConverge Technologies Pvt, Ltd (UCT), our primary mission is to engineer smart, data-driven automation systems that optimize heavy industrial operations. This project centers on a critical phase of mining logistics: the froth flotation process.
 <img width="3999" height="3199" alt="image" src="https://github.com/user-attachments/assets/2aa8aed8-1238-4a52-8d44-54a3690e1e8b" />
